@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erine\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erine\\.nuget\\packages"
+    ]
+  }
+}

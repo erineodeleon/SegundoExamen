@@ -1,0 +1,52 @@
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Escritorio\Parcial\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Escritorio\Parcial\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\erine\OneDrive\Documents\TERCER CEMESTRE\PROGRAMACION 1\Tareas\SegundoExamen\SegundoExamen\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
