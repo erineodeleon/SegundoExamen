@@ -22,12 +22,13 @@ namespace Parcial
             int contar = 0;
             int num = 1;
             int sumatoria = 0;
+            System.Console.WriteLine("==========NECFLIS==========");
             while(resultado!=3){
             System.Console.WriteLine("=============================");
-            System.Console.WriteLine("Selecione una de las opciones");
-            System.Console.WriteLine("[1]. clientes");
-            System.Console.WriteLine("[2]. peliculas");
-            System.Console.WriteLine("[3]. Salir");
+            System.Console.WriteLine("Selecione una opciones");
+            System.Console.WriteLine(" 1. clientes");
+            System.Console.WriteLine(" 2. peliculas");
+            System.Console.WriteLine(" 3 . Salir");
             System.Console.WriteLine("=============================");
             resultado=Convert.ToInt32(Console.ReadLine());
             
@@ -36,10 +37,10 @@ namespace Parcial
                         System.Console.WriteLine("=============================");
                         System.Console.WriteLine("          Usuarios");
                         System.Console.WriteLine("Escoja uno de los valores");
-                        System.Console.WriteLine("[1]. ver listado");
-                        System.Console.WriteLine("[2]. crear cliente");
-                        System.Console.WriteLine("[3]. selecionar cliente");
-                        System.Console.WriteLine("[4]. salir");
+                        System.Console.WriteLine(" 1. ver listado");
+                        System.Console.WriteLine(" 2. crear cliente");
+                        System.Console.WriteLine(" 3. selecionar cliente");
+                        System.Console.WriteLine(" 4 . salir");
                         System.Console.WriteLine("=============================");
 
                         operacion=Convert.ToInt32(Console.ReadLine());
@@ -118,9 +119,9 @@ namespace Parcial
                                 while(true){
                                 System.Console.WriteLine("=============================");
                                 System.Console.WriteLine("Escoja una de las opciones");
-                                System.Console.WriteLine("[1]. Playlist");
-                                System.Console.WriteLine("[2]. Agregar pelicula");
-                                System.Console.WriteLine("[3]. Atras");
+                                System.Console.WriteLine(" 1. Playlist");
+                                System.Console.WriteLine(" 2. Agregar pelicula");
+                                System.Console.WriteLine(" 3. Atras");
                                 System.Console.WriteLine("=============================");
                                 int indice = Int32.Parse(Console.ReadLine());
                                 
@@ -235,9 +236,9 @@ namespace Parcial
                         System.Console.WriteLine("=============================");
                         System.Console.WriteLine("          Peliculas");
                         System.Console.WriteLine("Escoja una de las opciones");
-                        System.Console.WriteLine("[1]. Ver peliculas");
-                        System.Console.WriteLine("[2]. Agregar peliculas");
-                        System.Console.WriteLine("[3]. Salir");
+                        System.Console.WriteLine(" 1. Ver peliculas");
+                        System.Console.WriteLine(" 2. Agregar peliculas");
+                        System.Console.WriteLine(" 3. Salir");
                         System.Console.WriteLine("=============================");
 
                         valor = Int32.Parse(Console.ReadLine());
