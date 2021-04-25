@@ -22,8 +22,6 @@ namespace Parcial
             int contar = 0;
             int num = 1;
             int sumatoria = 0;
-            System.Console.WriteLine("=============================");
-            System.Console.WriteLine("Bienvenidos");
             while(resultado!=3){
             System.Console.WriteLine("=============================");
             System.Console.WriteLine("Selecione una de las opciones");
